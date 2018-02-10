@@ -763,7 +763,7 @@ h1 {
   transform: rotate(84deg);
 }
 /* line 445, ../sass/screen.scss */
-.second:before {
+animation .second:before {
   content: '';
   display: box;
   position: absolute;
@@ -1101,7 +1101,7 @@ body {
 
 /* Bands */
 /* Grippers */
-/* line 770, ../sass/screen.scss */
+/* line 771, ../sass/screen.scss */
 .grip {
   position: absolute;
   border: 1px solid #777;
@@ -1110,7 +1110,7 @@ body {
   background: #eee;
 }
 
-/* line 779, ../sass/screen.scss */
+/* line 780, ../sass/screen.scss */
 #tlg {
   top: 170px;
   left: 597px;
@@ -1119,7 +1119,7 @@ body {
   box-shadow: inset 0 1px 0px #444444, inset 0 2px 0 white, inset 0 -6px 3px #444444;
 }
 
-/* line 790, ../sass/screen.scss */
+/* line 791, ../sass/screen.scss */
 #trg {
   top: 170px;
   right: 597px;
@@ -1128,7 +1128,7 @@ body {
   box-shadow: inset 0 1px 0 #444444, inset 0 2px 0 white, inset 0 -6px 3px #444444;
 }
 
-/* line 800, ../sass/screen.scss */
+/* line 801, ../sass/screen.scss */
 #blg {
   bottom: 174px;
   left: 598px;
@@ -1137,7 +1137,7 @@ body {
   box-shadow: inset 0 -1px 0px #444444, inset 0 -2px 0 white, inset 0 6px 3px #444444;
 }
 
-/* line 810, ../sass/screen.scss */
+/* line 811, ../sass/screen.scss */
 #brg {
   bottom: 170px;
   right: 598px;
@@ -1147,7 +1147,7 @@ body {
 }
 
 /* Material */
-/* line 827, ../sass/screen.scss */
+/* line 829, ../sass/screen.scss */
 #topBand {
   top: 125px;
   left: 0;
@@ -1155,7 +1155,7 @@ body {
   margin: 0 auto;
 }
 
-/* line 834, ../sass/screen.scss */
+/* line 836, ../sass/screen.scss */
 .band-1 {
   background-color: #101022;
   background-size: 20px 20px;
@@ -1164,13 +1164,13 @@ body {
   position: absolute;
 }
 
-/* line 844, ../sass/screen.scss */
+/* line 846, ../sass/screen.scss */
 #botBand {
   top: 240px;
   left: 63px;
 }
 
-/* line 851, ../sass/screen.scss */
+/* line 853, ../sass/screen.scss */
 .time-wheel {
   left: auto;
   right: 36%;
@@ -1188,7 +1188,7 @@ body {
   margin: auto 0;
 }
 
-/* line 868, ../sass/screen.scss */
+/* line 870, ../sass/screen.scss */
 .time-wheel:before {
   z-index: 1;
   left: 25px;
@@ -1207,7 +1207,7 @@ body {
   top: 10px;
 }
 
-/* line 886, ../sass/screen.scss */
+/* line 888, ../sass/screen.scss */
 .time-wheel:after {
   right: 4px;
   left: auto;
@@ -1221,7 +1221,7 @@ body {
   top: 10px;
 }
 
-/* line 899, ../sass/screen.scss */
+/* line 901, ../sass/screen.scss */
 .meeting {
   position: absolute;
   bottom: 60px;
@@ -1235,7 +1235,7 @@ body {
   color: #bfbcd8;
   font-weight: 600;
 }
-/* line 911, ../sass/screen.scss */
+/* line 913, ../sass/screen.scss */
 .meeting span {
   color: #ff0000;
 }
