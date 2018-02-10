@@ -853,7 +853,7 @@ body {
 
 .time-wheel:before {
     z-index: 1;
-    left: 15px;
+    left: 25px;
     width: 6px;
     height: 36px;
     margin-top: -18px;
@@ -866,6 +866,7 @@ body {
     background-size: 100% 4px;
     content: '';
     position: absolute;
+    top:10px;
 }
 
 .time-wheel:after {
@@ -878,6 +879,7 @@ body {
     border-radius: 0 8px 8px 0;
     content: '';
     position: absolute;
+    top:10px
 }
 
 .meeting {
