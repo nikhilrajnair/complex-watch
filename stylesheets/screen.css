@@ -69,19 +69,19 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 @font-face {
   font-family: 'weather';
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.eot");
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.eot?#iefix") format("embedded-opentype"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.woff") format("woff"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.ttf") format("truetype"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg") format("svg");
+  src: url("../fonts/1.eot");
+  src: url("../fonts/2.eot") format("embedded-opentype"), url("../fonts/4.woff") format("woff"), url("../fonts/3.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
-/* line 30, ../sass/screen.scss */
+/* line 29, ../sass/screen.scss */
 img {
   max-width: 100%;
   position: relative;
   z-index: 111;
 }
 
-/* line 36, ../sass/screen.scss */
+/* line 35, ../sass/screen.scss */
 i {
   color: #fff;
   font-family: weather;
@@ -91,260 +91,260 @@ i {
   line-height: 1.0;
 }
 
-/* line 45, ../sass/screen.scss */
+/* line 44, ../sass/screen.scss */
 .icon-0:before {
   content: ":";
 }
 
-/* line 49, ../sass/screen.scss */
+/* line 48, ../sass/screen.scss */
 .icon-1:before {
   content: "p";
 }
 
-/* line 53, ../sass/screen.scss */
+/* line 52, ../sass/screen.scss */
 .icon-2:before {
   content: "S";
 }
 
-/* line 57, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 .icon-3:before {
   content: "Q";
 }
 
-/* line 61, ../sass/screen.scss */
+/* line 60, ../sass/screen.scss */
 .icon-4:before {
   content: "S";
 }
 
-/* line 65, ../sass/screen.scss */
+/* line 64, ../sass/screen.scss */
 .icon-5:before {
   content: "W";
 }
 
-/* line 69, ../sass/screen.scss */
+/* line 68, ../sass/screen.scss */
 .icon-6:before {
   content: "W";
 }
 
-/* line 73, ../sass/screen.scss */
+/* line 72, ../sass/screen.scss */
 .icon-7:before {
   content: "W";
 }
 
-/* line 77, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 .icon-8:before {
   content: "W";
 }
 
-/* line 81, ../sass/screen.scss */
+/* line 80, ../sass/screen.scss */
 .icon-9:before {
   content: "I";
 }
 
-/* line 85, ../sass/screen.scss */
+/* line 84, ../sass/screen.scss */
 .icon-10:before {
   content: "W";
 }
 
-/* line 89, ../sass/screen.scss */
+/* line 88, ../sass/screen.scss */
 .icon-11:before {
   content: "I";
 }
 
-/* line 93, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 .icon-12:before {
   content: "I";
 }
 
-/* line 97, ../sass/screen.scss */
+/* line 96, ../sass/screen.scss */
 .icon-13:before {
   content: "I";
 }
 
-/* line 101, ../sass/screen.scss */
+/* line 100, ../sass/screen.scss */
 .icon-14:before {
   content: "I";
 }
 
-/* line 105, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 .icon-15:before {
   content: "W";
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 108, ../sass/screen.scss */
 .icon-16:before {
   content: "I";
 }
 
-/* line 113, ../sass/screen.scss */
+/* line 112, ../sass/screen.scss */
 .icon-17:before {
   content: "W";
 }
 
-/* line 117, ../sass/screen.scss */
+/* line 116, ../sass/screen.scss */
 .icon-18:before {
   content: "U";
 }
 
-/* line 121, ../sass/screen.scss */
+/* line 120, ../sass/screen.scss */
 .icon-19:before {
   content: "Z";
 }
 
-/* line 125, ../sass/screen.scss */
+/* line 124, ../sass/screen.scss */
 .icon-20:before {
   content: "Z";
 }
 
-/* line 129, ../sass/screen.scss */
+/* line 128, ../sass/screen.scss */
 .icon-21:before {
   content: "Z";
 }
 
-/* line 133, ../sass/screen.scss */
+/* line 132, ../sass/screen.scss */
 .icon-22:before {
   content: "Z";
 }
 
-/* line 137, ../sass/screen.scss */
+/* line 136, ../sass/screen.scss */
 .icon-23:before {
   content: "Z";
 }
 
-/* line 141, ../sass/screen.scss */
+/* line 140, ../sass/screen.scss */
 .icon-24:before {
   content: "E";
 }
 
-/* line 145, ../sass/screen.scss */
+/* line 144, ../sass/screen.scss */
 .icon-25:before {
   content: "E";
 }
 
-/* line 149, ../sass/screen.scss */
+/* line 148, ../sass/screen.scss */
 .icon-26:before {
   content: "3";
 }
 
-/* line 153, ../sass/screen.scss */
+/* line 152, ../sass/screen.scss */
 .icon-27:before {
   content: "a";
 }
 
-/* line 157, ../sass/screen.scss */
+/* line 156, ../sass/screen.scss */
 .icon-28:before {
   content: "A";
 }
 
-/* line 161, ../sass/screen.scss */
+/* line 160, ../sass/screen.scss */
 .icon-29:before {
   content: "a";
 }
 
-/* line 165, ../sass/screen.scss */
+/* line 164, ../sass/screen.scss */
 .icon-30:before {
   content: "A";
 }
 
-/* line 169, ../sass/screen.scss */
+/* line 168, ../sass/screen.scss */
 .icon-31:before {
   content: "6";
 }
 
-/* line 173, ../sass/screen.scss */
+/* line 172, ../sass/screen.scss */
 .icon-32:before {
   content: "1";
 }
 
-/* line 177, ../sass/screen.scss */
+/* line 176, ../sass/screen.scss */
 .icon-33:before {
   content: "6";
 }
 
-/* line 181, ../sass/screen.scss */
+/* line 180, ../sass/screen.scss */
 .icon-34:before {
   content: "1";
 }
 
-/* line 185, ../sass/screen.scss */
+/* line 184, ../sass/screen.scss */
 .icon-35:before {
   content: "W";
 }
 
-/* line 189, ../sass/screen.scss */
+/* line 188, ../sass/screen.scss */
 .icon-36:before {
   content: "1";
 }
 
-/* line 193, ../sass/screen.scss */
+/* line 192, ../sass/screen.scss */
 .icon-37:before {
   content: "S";
 }
 
-/* line 197, ../sass/screen.scss */
+/* line 196, ../sass/screen.scss */
 .icon-38:before {
   content: "S";
 }
 
-/* line 201, ../sass/screen.scss */
+/* line 200, ../sass/screen.scss */
 .icon-39:before {
   content: "S";
 }
 
-/* line 205, ../sass/screen.scss */
+/* line 204, ../sass/screen.scss */
 .icon-40:before {
   content: "M";
 }
 
-/* line 209, ../sass/screen.scss */
+/* line 208, ../sass/screen.scss */
 .icon-41:before {
   content: "W";
 }
 
-/* line 213, ../sass/screen.scss */
+/* line 212, ../sass/screen.scss */
 .icon-42:before {
   content: "I";
 }
 
-/* line 217, ../sass/screen.scss */
+/* line 216, ../sass/screen.scss */
 .icon-43:before {
   content: "W";
 }
 
-/* line 221, ../sass/screen.scss */
+/* line 220, ../sass/screen.scss */
 .icon-44:before {
   content: "a";
 }
 
-/* line 225, ../sass/screen.scss */
+/* line 224, ../sass/screen.scss */
 .icon-45:before {
   content: "S";
 }
 
-/* line 229, ../sass/screen.scss */
+/* line 228, ../sass/screen.scss */
 .icon-46:before {
   content: "U";
 }
 
-/* line 233, ../sass/screen.scss */
+/* line 232, ../sass/screen.scss */
 .icon-47:before {
   content: "S";
 }
 
-/* line 252, ../sass/screen.scss */
+/* line 251, ../sass/screen.scss */
 *,
 *:before,
 *:after {
   box-sizing: border-box;
 }
 
-/* line 258, ../sass/screen.scss */
+/* line 257, ../sass/screen.scss */
 body {
   background-color: #E3E2DC;
   font-family: 'Open Sans', sans-serif;
 }
 
-/* line 263, ../sass/screen.scss */
+/* line 262, ../sass/screen.scss */
 h1 {
   display: inline-box;
   margin: 3rem auto;
@@ -360,14 +360,14 @@ h1 {
   box-shadow: inset 0 1px 3px #898989, 0 -1px 3px #898989;
 }
 
-/* line 281, ../sass/screen.scss */
+/* line 280, ../sass/screen.scss */
 .watch {
   position: absolute;
   top: 50%;
   left: 50%;
 }
 
-/* line 287, ../sass/screen.scss */
+/* line 286, ../sass/screen.scss */
 .frame {
   position: absolute;
   top: -175px;
@@ -379,7 +379,7 @@ h1 {
   box-shadow: 0 0 0 7px #CFCFCF, 0 0 0 19px #E5E5E5, 0 0 80px 19px rgba(0, 0, 0, 0.2), inset 2px 2px 20px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* line 301, ../sass/screen.scss */
+/* line 300, ../sass/screen.scss */
 .inner-border {
   height: 300px;
   width: 300px;
@@ -392,7 +392,7 @@ h1 {
   margin: 10px;
 }
 
-/* line 314, ../sass/screen.scss */
+/* line 313, ../sass/screen.scss */
 .numbers {
   top: 175px;
   left: 175px;
@@ -400,7 +400,7 @@ h1 {
   height: 1px;
   border-radius: 50%;
 }
-/* line 322, ../sass/screen.scss */
+/* line 321, ../sass/screen.scss */
 .numbers span {
   display: block;
   position: absolute;
@@ -416,264 +416,264 @@ h1 {
   transform-origin: center;
   overflow: hidden;
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(1) {
   transform: rotate(6deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(2) {
   transform: rotate(12deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(3) {
   transform: rotate(18deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(4) {
   transform: rotate(24deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(5) {
   transform: rotate(30deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(6) {
   transform: rotate(36deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(7) {
   transform: rotate(42deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(8) {
   transform: rotate(48deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(9) {
   transform: rotate(54deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(10) {
   transform: rotate(60deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(11) {
   transform: rotate(66deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(12) {
   transform: rotate(72deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(13) {
   transform: rotate(78deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(14) {
   transform: rotate(84deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(15) {
   transform: rotate(90deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(16) {
   transform: rotate(96deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(17) {
   transform: rotate(102deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(18) {
   transform: rotate(108deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(19) {
   transform: rotate(114deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(20) {
   transform: rotate(120deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(21) {
   transform: rotate(126deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(22) {
   transform: rotate(132deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(23) {
   transform: rotate(138deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(24) {
   transform: rotate(144deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(25) {
   transform: rotate(150deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(26) {
   transform: rotate(156deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(27) {
   transform: rotate(162deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(28) {
   transform: rotate(168deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(29) {
   transform: rotate(174deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(30) {
   transform: rotate(180deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(31) {
   transform: rotate(186deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(32) {
   transform: rotate(192deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(33) {
   transform: rotate(198deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(34) {
   transform: rotate(204deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(35) {
   transform: rotate(210deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(36) {
   transform: rotate(216deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(37) {
   transform: rotate(222deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(38) {
   transform: rotate(228deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(39) {
   transform: rotate(234deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(40) {
   transform: rotate(240deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(41) {
   transform: rotate(246deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(42) {
   transform: rotate(252deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(43) {
   transform: rotate(258deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(44) {
   transform: rotate(264deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(45) {
   transform: rotate(270deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(46) {
   transform: rotate(276deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(47) {
   transform: rotate(282deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(48) {
   transform: rotate(288deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(49) {
   transform: rotate(294deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(50) {
   transform: rotate(300deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(51) {
   transform: rotate(306deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(52) {
   transform: rotate(312deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(53) {
   transform: rotate(318deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(54) {
   transform: rotate(324deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(55) {
   transform: rotate(330deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(56) {
   transform: rotate(336deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(57) {
   transform: rotate(342deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(58) {
   transform: rotate(348deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(59) {
   transform: rotate(354deg);
 }
-/* line 339, ../sass/screen.scss */
+/* line 338, ../sass/screen.scss */
 .numbers span:nth-of-type(60) {
   transform: rotate(360deg);
 }
-/* line 344, ../sass/screen.scss */
+/* line 343, ../sass/screen.scss */
 .numbers span:nth-of-type(5n) {
   padding-top: 12px;
   font-size: 16px;
 }
-/* line 349, ../sass/screen.scss */
+/* line 348, ../sass/screen.scss */
 .numbers span:nth-of-type(29n),
 .numbers span:nth-of-type(31n),
 .numbers span:nth-of-type(30n):before {
   display: none;
 }
-/* line 355, ../sass/screen.scss */
+/* line 354, ../sass/screen.scss */
 .numbers span:nth-of-type(58n),
 .numbers span:nth-of-type(60n):before {
   display: block;
 }
 
-/* line 363, ../sass/screen.scss */
+/* line 362, ../sass/screen.scss */
 .day {
   position: absolute;
   top: 50px;
@@ -682,7 +682,8 @@ h1 {
   text-transform: uppercase;
   height: 0;
   padding: 0 8px 0 0;
-  font-size: 16px;
+  font-size: 14px;
+  font-weight: 700;
   line-height: 16px;
 }
 /* line 373, ../sass/screen.scss */
@@ -1027,7 +1028,7 @@ h1 {
   font-size: 10px;
 }
 
-/* line 703, ../sass/screen.scss */
+/* line 694, ../sass/screen.scss */
 .diallines {
   position: absolute;
   z-index: 2;
@@ -1039,18 +1040,18 @@ h1 {
   transform-origin: 50% 172px;
 }
 
-/* line 714, ../sass/screen.scss */
+/* line 705, ../sass/screen.scss */
 #weather {
   position: relative;
   z-index: 11;
 }
 
-/* line 719, ../sass/screen.scss */
+/* line 710, ../sass/screen.scss */
 body {
   overflow: hidden;
 }
 
-/* line 726, ../sass/screen.scss */
+/* line 717, ../sass/screen.scss */
 #watch {
   position: relative;
   margin: 50px;
@@ -1058,7 +1059,7 @@ body {
 
 /* Bands */
 /* Grippers */
-/* line 756, ../sass/screen.scss */
+/* line 728, ../sass/screen.scss */
 .grip {
   position: absolute;
   border: 1px solid #777;
@@ -1067,7 +1068,7 @@ body {
   background: #eee;
 }
 
-/* line 765, ../sass/screen.scss */
+/* line 737, ../sass/screen.scss */
 #tlg {
   top: 170px;
   left: 597px;
@@ -1076,7 +1077,7 @@ body {
   box-shadow: inset 0 1px 0px #444444, inset 0 2px 0 white, inset 0 -6px 3px #444444;
 }
 
-/* line 776, ../sass/screen.scss */
+/* line 748, ../sass/screen.scss */
 #trg {
   top: 170px;
   right: 597px;
@@ -1085,7 +1086,7 @@ body {
   box-shadow: inset 0 1px 0 #444444, inset 0 2px 0 white, inset 0 -6px 3px #444444;
 }
 
-/* line 786, ../sass/screen.scss */
+/* line 758, ../sass/screen.scss */
 #blg {
   bottom: 174px;
   left: 598px;
@@ -1094,7 +1095,7 @@ body {
   box-shadow: inset 0 -1px 0px #444444, inset 0 -2px 0 white, inset 0 6px 3px #444444;
 }
 
-/* line 796, ../sass/screen.scss */
+/* line 768, ../sass/screen.scss */
 #brg {
   bottom: 170px;
   right: 598px;
@@ -1104,7 +1105,7 @@ body {
 }
 
 /* Material */
-/* line 809, ../sass/screen.scss */
+/* line 783, ../sass/screen.scss */
 #topBand {
   top: 125px;
   left: 0;
@@ -1112,7 +1113,7 @@ body {
   margin: 0 auto;
 }
 
-/* line 816, ../sass/screen.scss */
+/* line 790, ../sass/screen.scss */
 .band-1 {
   background-color: #101022;
   background-size: 20px 20px;
@@ -1121,13 +1122,13 @@ body {
   position: absolute;
 }
 
-/* line 826, ../sass/screen.scss */
+/* line 800, ../sass/screen.scss */
 #botBand {
   top: 240px;
   left: 63px;
 }
 
-/* line 833, ../sass/screen.scss */
+/* line 807, ../sass/screen.scss */
 .time-wheel {
   left: auto;
   right: 36%;
@@ -1145,7 +1146,7 @@ body {
   margin: auto 0;
 }
 
-/* line 850, ../sass/screen.scss */
+/* line 824, ../sass/screen.scss */
 .time-wheel:before {
   z-index: 1;
   left: 15px;
@@ -1163,7 +1164,7 @@ body {
   position: absolute;
 }
 
-/* line 867, ../sass/screen.scss */
+/* line 841, ../sass/screen.scss */
 .time-wheel:after {
   right: 4px;
   left: auto;
@@ -1176,7 +1177,7 @@ body {
   position: absolute;
 }
 
-/* line 879, ../sass/screen.scss */
+/* line 853, ../sass/screen.scss */
 .meeting {
   position: absolute;
   bottom: 60px;
@@ -1188,8 +1189,9 @@ body {
   text-transform: uppercase;
   font-size: 12px;
   color: #bfbcd8;
+  font-weight: 600;
 }
-/* line 890, ../sass/screen.scss */
+/* line 865, ../sass/screen.scss */
 .meeting span {
   color: #ff0000;
 }
