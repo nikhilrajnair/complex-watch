@@ -529,6 +529,7 @@ h1 {
     border-radius: 50%;
     border: transparent;
     transform: rotate(-40deg);
+    box-shadow: 1px 0px 0px #cecece;
 
     span {
         display: box;
@@ -756,13 +757,13 @@ body {
     position: absolute;
     border: 1px solid #777;
     width: 12px;
-    height: 30px;
+    height: 50px;
     background: #eee;
 }
 
 
 #tlg {
-    top: 194px;
+    top: 170px;
     left: 597px;
     border-radius: 8px 4px 0 0;
     border-left: none;
@@ -773,7 +774,7 @@ body {
 
 
 #trg {
-    top: 194px;
+    top: 170px;
     right: 597px;
     border-radius: 4px 8px 0 0;
     border-right: none;
@@ -783,7 +784,7 @@ body {
 
 
 #blg {
-    bottom: 194px;
+    bottom: 174px;
     left: 598px;
     border-radius: 0 0 4px 8px;
     border-left: none;
@@ -793,7 +794,7 @@ body {
 
 
 #brg {
-    bottom: 190px;
+    bottom: 170px;
     right: 598px;
     border-radius: 0 0 8px 4px;
     border-left: none;

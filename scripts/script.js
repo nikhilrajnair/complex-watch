@@ -40,7 +40,7 @@ $(document).ready(function() {
 
         var weeknumber = moment(cur_time).week() * 25;
 
-        // var weeknumber = 1 * 25;
+        // var weeknumber = 7 * 25;
 
 
     	// console.log(weeknumber);
