@@ -597,7 +597,7 @@ h1 {
 
     @for $i from 1 through 6 {
         span:nth-of-type(#{$i}) {
-            transform: rotate($i*30deg);
+            transform: rotate($i*25deg);
         }
     }
 

@@ -37,6 +37,8 @@ function updateClock() {
     var m_deg = 6 * cur_m;
     var h_deg = (cur_m / 60 + cur_h) * 30;
     var weeknumber = moment(cur_time).week() * 25;
+     // var weeknumber = 5 * 25;
+
     $('.day span').html(moment().format('D MMM'));
     $('.second').css({ 'transform': 'rotate(' + s_deg + 'deg)' });
     $('.minute').css({ 'transform': 'rotate(' + m_deg + 'deg)' });
