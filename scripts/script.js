@@ -9,15 +9,7 @@ for (var i = 1; i < 60; i++) {
     dialLines[i].style.transform = "rotate(" + 6 * i + "deg)";
 }
 
-
-
-
-
-
 // CLOCK 
-
-
-
 
 $(document).ready(function() {
 
@@ -52,16 +44,10 @@ function checkTime(i) {
     if (i < 10) {
         i = "0" + i;
     }
-
     return i;
 }
 
-
-
-
 // WEATHER API
-
-
 
 // Docs at http://simpleweatherjs.com
 
@@ -107,14 +93,7 @@ function loadWeather(location, woeid) {
     });
 }
 
-
-
-
-
-
-
 // ICONS BASED ON HOURS
-
 
 function showRandomImage() {
     var theImage = document.getElementById('myimage');
